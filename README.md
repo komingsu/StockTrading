@@ -1,5 +1,6 @@
 # StockTrading
 
+```
 StockTrading/
 ├─ pyproject.toml              # 의존성/빌드(선택) or requirements.txt
 ├─ README.md
@@ -40,3 +41,4 @@ StockTrading/
 └─ data/                       # (로컬) parquet/hdf5 캐시
    ├─ raw/
    └─ proc/
+```
